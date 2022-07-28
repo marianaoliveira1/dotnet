@@ -1,0 +1,16 @@
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\6Encapsulamento\obj\Debug\net5.0\6Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\6Encapsulamento\obj\Debug\net5.0\6Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\6Encapsulamento\obj\Debug\net5.0\6Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\6Encapsulamento\obj\Debug\net5.0\6Encapsulamento.AssemblyInfo.cs
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\6Encapsulamento\obj\Debug\net5.0\6Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\6Encapsulamento\bin\Debug\net5.0\6Encapsulamento.exe
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\6Encapsulamento\bin\Debug\net5.0\6Encapsulamento.deps.json
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\6Encapsulamento\bin\Debug\net5.0\6Encapsulamento.runtimeconfig.json
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\6Encapsulamento\bin\Debug\net5.0\6Encapsulamento.runtimeconfig.dev.json
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\6Encapsulamento\bin\Debug\net5.0\6Encapsulamento.dll
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\6Encapsulamento\bin\Debug\net5.0\6Encapsulamento.pdb
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\6Encapsulamento\obj\Debug\net5.0\6Encapsulamento.dll
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\6Encapsulamento\obj\Debug\net5.0\refint\6Encapsulamento.dll
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\6Encapsulamento\obj\Debug\net5.0\6Encapsulamento.pdb
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\6Encapsulamento\obj\Debug\net5.0\6Encapsulamento.genruntimeconfig.cache
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\6Encapsulamento\obj\Debug\net5.0\ref\6Encapsulamento.dll

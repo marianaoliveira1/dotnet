@@ -1,0 +1,16 @@
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\7Construtor\obj\Debug\net5.0\7Construtor.csproj.AssemblyReference.cache
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\7Construtor\obj\Debug\net5.0\7Construtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\7Construtor\obj\Debug\net5.0\7Construtor.AssemblyInfoInputs.cache
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\7Construtor\obj\Debug\net5.0\7Construtor.AssemblyInfo.cs
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\7Construtor\obj\Debug\net5.0\7Construtor.csproj.CoreCompileInputs.cache
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\7Construtor\bin\Debug\net5.0\7Construtor.exe
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\7Construtor\bin\Debug\net5.0\7Construtor.deps.json
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\7Construtor\bin\Debug\net5.0\7Construtor.runtimeconfig.json
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\7Construtor\bin\Debug\net5.0\7Construtor.runtimeconfig.dev.json
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\7Construtor\bin\Debug\net5.0\7Construtor.dll
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\7Construtor\bin\Debug\net5.0\7Construtor.pdb
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\7Construtor\obj\Debug\net5.0\7Construtor.dll
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\7Construtor\obj\Debug\net5.0\refint\7Construtor.dll
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\7Construtor\obj\Debug\net5.0\7Construtor.pdb
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\7Construtor\obj\Debug\net5.0\7Construtor.genruntimeconfig.cache
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\7Construtor\obj\Debug\net5.0\ref\7Construtor.dll

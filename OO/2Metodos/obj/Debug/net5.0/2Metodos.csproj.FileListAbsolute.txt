@@ -1,0 +1,16 @@
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\2Metodos\obj\Debug\net5.0\2Metodos.csproj.AssemblyReference.cache
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\2Metodos\obj\Debug\net5.0\2Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\2Metodos\obj\Debug\net5.0\2Metodos.AssemblyInfoInputs.cache
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\2Metodos\obj\Debug\net5.0\2Metodos.AssemblyInfo.cs
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\2Metodos\obj\Debug\net5.0\2Metodos.csproj.CoreCompileInputs.cache
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\2Metodos\bin\Debug\net5.0\2Metodos.exe
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\2Metodos\bin\Debug\net5.0\2Metodos.deps.json
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\2Metodos\bin\Debug\net5.0\2Metodos.runtimeconfig.json
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\2Metodos\bin\Debug\net5.0\2Metodos.runtimeconfig.dev.json
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\2Metodos\bin\Debug\net5.0\2Metodos.dll
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\2Metodos\bin\Debug\net5.0\2Metodos.pdb
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\2Metodos\obj\Debug\net5.0\2Metodos.dll
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\2Metodos\obj\Debug\net5.0\refint\2Metodos.dll
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\2Metodos\obj\Debug\net5.0\2Metodos.pdb
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\2Metodos\obj\Debug\net5.0\2Metodos.genruntimeconfig.cache
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\2Metodos\obj\Debug\net5.0\ref\2Metodos.dll
