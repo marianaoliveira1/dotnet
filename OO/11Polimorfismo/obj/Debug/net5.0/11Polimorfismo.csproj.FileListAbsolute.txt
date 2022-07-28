@@ -1,0 +1,5 @@
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\11Polimorfismo\obj\Debug\net5.0\11Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\11Polimorfismo\obj\Debug\net5.0\11Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\11Polimorfismo\obj\Debug\net5.0\11Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\11Polimorfismo\obj\Debug\net5.0\11Polimorfismo.AssemblyInfo.cs
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\11Polimorfismo\obj\Debug\net5.0\11Polimorfismo.csproj.CoreCompileInputs.cache

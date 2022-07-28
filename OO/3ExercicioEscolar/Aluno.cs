@@ -17,7 +17,13 @@ class Aluno
     //situacao
     public  string situacao(double media)
     {
-        return media => 7 ? "Aprovado" : "reprovado";
+        if(media >= 7)
+        {
+            return "Aprovado";
+        }
+        else{
+            return "Reprovado";
+        }
     }
     //msg
     public void mensagem() 

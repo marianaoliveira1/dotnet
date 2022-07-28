@@ -1,0 +1,5 @@
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\8GetSet\obj\Debug\net5.0\8GetSet.csproj.AssemblyReference.cache
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\8GetSet\obj\Debug\net5.0\8GetSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\8GetSet\obj\Debug\net5.0\8GetSet.AssemblyInfoInputs.cache
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\8GetSet\obj\Debug\net5.0\8GetSet.AssemblyInfo.cs
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\OO\8GetSet\obj\Debug\net5.0\8GetSet.csproj.CoreCompileInputs.cache
