@@ -1,0 +1,15 @@
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\Teste\bin\Debug\net6.0\Teste.exe
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\Teste\bin\Debug\net6.0\Teste.deps.json
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\Teste\bin\Debug\net6.0\Teste.runtimeconfig.json
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\Teste\bin\Debug\net6.0\Teste.dll
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\Teste\bin\Debug\net6.0\Teste.pdb
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\Teste\obj\Debug\net6.0\Teste.csproj.AssemblyReference.cache
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\Teste\obj\Debug\net6.0\Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\Teste\obj\Debug\net6.0\Teste.AssemblyInfoInputs.cache
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\Teste\obj\Debug\net6.0\Teste.AssemblyInfo.cs
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\Teste\obj\Debug\net6.0\Teste.csproj.CoreCompileInputs.cache
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\Teste\obj\Debug\net6.0\Teste.dll
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\Teste\obj\Debug\net6.0\refint\Teste.dll
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\Teste\obj\Debug\net6.0\Teste.pdb
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\Teste\obj\Debug\net6.0\Teste.genruntimeconfig.cache
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\Teste\obj\Debug\net6.0\ref\Teste.dll
