@@ -1,0 +1,16 @@
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\SobreStrings\bin\Debug\net5.0\SobreStrings.exe
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\SobreStrings\bin\Debug\net5.0\SobreStrings.deps.json
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\SobreStrings\bin\Debug\net5.0\SobreStrings.runtimeconfig.json
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\SobreStrings\bin\Debug\net5.0\SobreStrings.runtimeconfig.dev.json
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\SobreStrings\bin\Debug\net5.0\SobreStrings.dll
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\SobreStrings\bin\Debug\net5.0\SobreStrings.pdb
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\SobreStrings\obj\Debug\net5.0\SobreStrings.csproj.AssemblyReference.cache
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\SobreStrings\obj\Debug\net5.0\SobreStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\SobreStrings\obj\Debug\net5.0\SobreStrings.AssemblyInfoInputs.cache
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\SobreStrings\obj\Debug\net5.0\SobreStrings.AssemblyInfo.cs
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\SobreStrings\obj\Debug\net5.0\SobreStrings.csproj.CoreCompileInputs.cache
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\SobreStrings\obj\Debug\net5.0\SobreStrings.dll
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\SobreStrings\obj\Debug\net5.0\refint\SobreStrings.dll
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\SobreStrings\obj\Debug\net5.0\SobreStrings.pdb
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\SobreStrings\obj\Debug\net5.0\SobreStrings.genruntimeconfig.cache
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\SobreStrings\obj\Debug\net5.0\ref\SobreStrings.dll
