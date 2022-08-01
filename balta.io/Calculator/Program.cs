@@ -16,7 +16,8 @@ namespace Calculator
             Console.WriteLine("2 - subtracao");
             Console.WriteLine("3 - divisao");
             Console.WriteLine("4 - multiplicacao");
-            Console.WriteLine("5 - sair");
+            Console.WriteLine("5 - multiplicar por 2");
+            Console.WriteLine("6 - sair");
 
             Console.WriteLine("------");
             Console.WriteLine("Selecione uma opcao");
@@ -46,15 +47,31 @@ namespace Calculator
                 }
                 case 5: 
                 {
-                    System.Environment.Exit(0);
+                    MultiplicacaoPorDois();
                     break;
                 }
+                case 6: 
+                {
+                    System.Environment.Exit(0);
+                    break;
+                }                
                 default: {
                     Menu();
                     break;
                 }
             }
 
+       }
+
+       static void MultiplicacaoPorDois() 
+       {
+            Console.Clear();
+            Console.WriteLine("Digite o numero para multiplicar por 2");
+            float res = float.Parse(Console.ReadLine());
+            Console.WriteLine("");
+
+            float multi = res * 2;
+            Console.WriteLine($"O resultado da multiplicacao por 2 eh : {multi}");
        }
 
        static void Soma() {
