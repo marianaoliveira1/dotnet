@@ -3,9 +3,9 @@ using System;
 
 abstract class Padrao
 {
-    public abstract void taxaEmprestimo(double valor);
+    public abstract void TaxaEmprestimo(double valor);
 
-    public void calculoPoupanca(double valor, double taxa)
+    public void CalculoPoupanca(double valor, double taxa)
     {
         Console.WriteLine("Ganhos obtidos pela poupanca R$ " +(valor*taxa));
     }

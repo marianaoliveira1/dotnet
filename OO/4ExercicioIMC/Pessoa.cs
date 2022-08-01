@@ -9,7 +9,7 @@ class Pessoa
         return peso/(altura*altura);
     }
 
-    public string situacao(double imc) {
+    public string Situacao(double imc) {
         string retorno;
 
         if(imc < 18.5)
@@ -40,10 +40,10 @@ class Pessoa
         return retorno;
     }
 
-    public void mensagem()
+    public void Mensagem()
     {
         double obertIMC = IMC();
-        string obterSituacao = situacao(obertIMC);
+        string obterSituacao = Situacao(obertIMC);
         Console.WriteLine("seu imc eh: " +obertIMC);
         Console.WriteLine("e sua situacao eh:  " +obterSituacao);
     }

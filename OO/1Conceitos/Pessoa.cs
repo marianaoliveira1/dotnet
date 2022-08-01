@@ -6,7 +6,7 @@ class Pessoa
 
     //metodos = funções
 
-    public void mensagem()
+    public void Mensagem()
     {
         Console.WriteLine("olá, pessoa " +nome+ " você tem " +idade+ " anos");
     }

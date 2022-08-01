@@ -10,7 +10,7 @@ namespace OO
             obj.nome = "mariana";
             obj.idade = 21;
 
-            obj.mensagem();
+            obj.Mensagem();
 
         }
     }

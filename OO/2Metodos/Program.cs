@@ -7,9 +7,9 @@ namespace _2Metodos
         static void Main(string[] args)
         {
             Pessoa obj = new Pessoa();
-            obj.apresentar();
-            obj.apresentar("mariana");
-            obj.apresentar("mari", 21);
+            obj.Apresentar();
+            obj.Apresentar("mariana");
+            obj.Apresentar("mari", 21);
         }
     }
 }

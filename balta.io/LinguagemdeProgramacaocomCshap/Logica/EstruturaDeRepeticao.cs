@@ -7,7 +7,7 @@ namespace Logica
 {
     public class EstruturaDeRepeticao
     {
-        public void estrutura()
+        public void Estrutura()
         {
             /*
             if(conidcao) //caso seja verdadeira
@@ -42,7 +42,7 @@ namespace Logica
             }
         }
 
-        public void muitasdecisao()
+        public void Muitasdecisao()
         {
             string valor = "joao";
             switch(valor)
@@ -55,7 +55,7 @@ namespace Logica
 
         }
 
-        public void lacosderep()
+        public void Lacosderep()
         {
             for(int i =1; i <=5; i++)
             {

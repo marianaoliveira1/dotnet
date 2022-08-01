@@ -9,7 +9,7 @@ namespace _4ExercicioIMC
             Pessoa pessoa = new Pessoa();
             pessoa.altura = 1.73;
             pessoa.peso = 55.5;
-            pessoa.mensagem();
+            pessoa.Mensagem();
         }
     }
 }

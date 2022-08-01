@@ -7,8 +7,8 @@ namespace _14Interface
         static void Main(string[] args)
         {
             Calculo calculo = new Calculo();
-            calculo.somar(15,15);
-            calculo.somar(50,20);
+            calculo.Somar(15,15);
+            calculo.Somar(50,20);
         }
     }
 }

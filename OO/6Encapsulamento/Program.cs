@@ -7,7 +7,7 @@ namespace _6Encapsulamento
         static void Main(string[] args)
         {
            Aluno aluno = new Aluno();
-           aluno.mensagem();
+           aluno.Mensagem();
         }
     }
 }

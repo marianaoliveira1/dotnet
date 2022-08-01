@@ -1,5 +1,5 @@
 interface IPadrao
 {
-    void somar(int n1, int n2);
-    void subtrair(int n1, int n2);
+    void Somar(int n1, int n2);
+    void Subtrair(int n1, int n2);
 }

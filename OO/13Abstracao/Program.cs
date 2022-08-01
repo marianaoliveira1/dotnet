@@ -7,10 +7,10 @@ namespace _13Abstracao
         static void Main(string[] args)
         {
            PessoaFisica pf = new PessoaFisica();
-           pf.taxaEmprestimo(1000);
+           pf.TaxaEmprestimo(1000);
 
            PessoaJuridica pj = new PessoaJuridica();
-           pj.taxaEmprestimo(1000);
+           pj.TaxaEmprestimo(1000);
         }
     }
 }

@@ -40,7 +40,7 @@ namespace Logica
         // só uma ||
         // negacao !
 
-        public void testando()
+        public void Testando()
         {
             int x = 2;
             x = 2/2 + 2;

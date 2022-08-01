@@ -7,7 +7,7 @@ class Aluno
     public double nota1, nota2;
 
     //media
-    public  double media()
+    public  double Media()
     {
         double media;
         media = (nota1 + nota2)/2;
@@ -15,7 +15,7 @@ class Aluno
         return media;
     }
     //situacao
-    public  string situacao(double media)
+    public  string Situacao(double media)
     {
         if(media >= 7)
         {
@@ -26,10 +26,10 @@ class Aluno
         }
     }
     //msg
-    public void mensagem() 
+    public void Mensagem() 
     {
-        double obterMedia = media();
-        string obterSituacao = situacao(obterMedia);
+        double obterMedia = Media();
+        string obterSituacao = Situacao(obterMedia);
         Console.WriteLine("Nome: " +nome+ " está" +obterSituacao+" com a média " +obterMedia);
     }
 }

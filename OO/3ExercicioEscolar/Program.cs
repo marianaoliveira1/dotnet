@@ -11,7 +11,7 @@ namespace _3ExercicioEscolar
             aluno.nota1 = 10.0;
             aluno.nota1 = 4;
 
-            aluno.mensagem();
+            aluno.Mensagem();
 
         }
     }
