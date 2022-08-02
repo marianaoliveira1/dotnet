@@ -1,0 +1,16 @@
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\Arrays\bin\Debug\net5.0\Arrays.exe
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\Arrays\bin\Debug\net5.0\Arrays.deps.json
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.json
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.dev.json
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\Arrays\bin\Debug\net5.0\Arrays.dll
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\Arrays\bin\Debug\net5.0\Arrays.pdb
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\Arrays\obj\Debug\net5.0\Arrays.csproj.AssemblyReference.cache
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\Arrays\obj\Debug\net5.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfo.cs
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\Arrays\obj\Debug\net5.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\Arrays\obj\Debug\net5.0\Arrays.dll
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\Arrays\obj\Debug\net5.0\refint\Arrays.dll
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\Arrays\obj\Debug\net5.0\Arrays.pdb
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\Arrays\obj\Debug\net5.0\Arrays.genruntimeconfig.cache
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\Arrays\obj\Debug\net5.0\ref\Arrays.dll
