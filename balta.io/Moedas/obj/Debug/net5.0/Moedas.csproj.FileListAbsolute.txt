@@ -1,0 +1,16 @@
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\Moedas\bin\Debug\net5.0\Moedas.exe
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\Moedas\bin\Debug\net5.0\Moedas.deps.json
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\Moedas\bin\Debug\net5.0\Moedas.runtimeconfig.json
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\Moedas\bin\Debug\net5.0\Moedas.runtimeconfig.dev.json
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\Moedas\bin\Debug\net5.0\Moedas.dll
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\Moedas\bin\Debug\net5.0\Moedas.pdb
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\Moedas\obj\Debug\net5.0\Moedas.csproj.AssemblyReference.cache
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\Moedas\obj\Debug\net5.0\Moedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\Moedas\obj\Debug\net5.0\Moedas.AssemblyInfoInputs.cache
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\Moedas\obj\Debug\net5.0\Moedas.AssemblyInfo.cs
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\Moedas\obj\Debug\net5.0\Moedas.csproj.CoreCompileInputs.cache
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\Moedas\obj\Debug\net5.0\Moedas.dll
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\Moedas\obj\Debug\net5.0\refint\Moedas.dll
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\Moedas\obj\Debug\net5.0\Moedas.pdb
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\Moedas\obj\Debug\net5.0\Moedas.genruntimeconfig.cache
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\balta.io\Moedas\obj\Debug\net5.0\ref\Moedas.dll
