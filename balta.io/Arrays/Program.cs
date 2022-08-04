@@ -14,9 +14,9 @@ namespace Arrays
             var meuArray = new int[5] { 1,2,3,4,5};
             meuArray[0] = 12;
 
-            var funcionario = new Funcionario[5];
-            foreach(var funcionario in funcionario)
-                Console.WriteLine(funcionario.Id);
+            // var funcionario = new Funcionario[5];
+            // foreach(var funcionario in funcionario)
+            //     Console.WriteLine(funcionario.Id);
 
             // for(var item = 0; item < meuArray.Length; item++)
             // {
@@ -25,7 +25,16 @@ namespace Arrays
 
             foreach(var item in meuArray)
                 Console.WriteLine(item);
+
             
+            var arr = new int[4];
+            var arrb = arr;
+            var segundo = new int[4];
+
+            segundo[1] = arr[1];
+            arr.CopyTo(segundo, 1);
+            arr[0] = 23;
+            Console.WriteLine(arrb[0]);
 
             // Console.WriteLine(meuArray[0]);
             // Console.WriteLine(meuArray[1]);
