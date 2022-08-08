@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6QMTe/eSruJsnI6DwgdVm3ibIhtkWQbCsdiHTHoF4Rw7jVKtiLuix4qMJZqm8/4H25UyvIG/kEoI3yePu6r7cw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mariana_oliveira\\Documents\\atlantico\\dotnet\\desenvolvedor.io\\MeuAppVSCode\\MeuAppVSCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mariana_oliveira\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\mariana_oliveira\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
