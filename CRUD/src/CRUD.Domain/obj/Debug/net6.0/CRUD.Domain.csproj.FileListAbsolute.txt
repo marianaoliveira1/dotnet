@@ -1,0 +1,5 @@
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\CRUD\src\CRUD.Domain\obj\Debug\net6.0\CRUD.Domain.csproj.AssemblyReference.cache
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\CRUD\src\CRUD.Domain\obj\Debug\net6.0\CRUD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\CRUD\src\CRUD.Domain\obj\Debug\net6.0\CRUD.Domain.AssemblyInfoInputs.cache
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\CRUD\src\CRUD.Domain\obj\Debug\net6.0\CRUD.Domain.AssemblyInfo.cs
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\CRUD\src\CRUD.Domain\obj\Debug\net6.0\CRUD.Domain.csproj.CoreCompileInputs.cache

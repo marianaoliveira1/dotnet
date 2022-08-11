@@ -1,0 +1,12 @@
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\CRUD\src\CRUD.Services\bin\Debug\net6.0\CRUD.Services.deps.json
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\CRUD\src\CRUD.Services\bin\Debug\net6.0\CRUD.Services.dll
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\CRUD\src\CRUD.Services\bin\Debug\net6.0\CRUD.Services.pdb
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\CRUD\src\CRUD.Services\obj\Debug\net6.0\CRUD.Services.csproj.AssemblyReference.cache
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\CRUD\src\CRUD.Services\obj\Debug\net6.0\CRUD.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\CRUD\src\CRUD.Services\obj\Debug\net6.0\CRUD.Services.AssemblyInfoInputs.cache
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\CRUD\src\CRUD.Services\obj\Debug\net6.0\CRUD.Services.AssemblyInfo.cs
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\CRUD\src\CRUD.Services\obj\Debug\net6.0\CRUD.Services.csproj.CoreCompileInputs.cache
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\CRUD\src\CRUD.Services\obj\Debug\net6.0\CRUD.Services.dll
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\CRUD\src\CRUD.Services\obj\Debug\net6.0\refint\CRUD.Services.dll
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\CRUD\src\CRUD.Services\obj\Debug\net6.0\CRUD.Services.pdb
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\CRUD\src\CRUD.Services\obj\Debug\net6.0\ref\CRUD.Services.dll
