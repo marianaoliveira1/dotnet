@@ -5,12 +5,12 @@ using System.Threading.Tasks;
 
 namespace CRUD.Domain.Entities
 {
-    public class Base
+    public abstract class Base
     {
-        public Long Id { get; set; }
+        public long Id { get; set; }
 
-        internal List<string> _erros;
-        public IReadOnlyCollection<string> Erros => _erros;
+        internal List<string> _errors;
+        public IReadOnlyCollection<string> Erros => _errors;
         public abstract bool Validate(); 
     }
 }

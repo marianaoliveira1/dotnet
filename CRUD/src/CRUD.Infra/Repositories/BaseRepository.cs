@@ -3,14 +3,18 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
+using CRUD.Infra.Intrfaces;
+using CRUD.Domain.Entities;
+using CRUD.Infra.Context;
 
 namespace CRUD.Infra.Repositories
 {
     public class BaseRepository<T> : IBaseRepository<T> where T : Base
     {
-        private readonly CrudContext _context;
+        private readonly CRUDContext _context;
 
-        public BaseRepository(CrudContext context)
+        public BaseRepository(CRUDContext context)
         {
             _context = context;
         }
@@ -31,9 +35,9 @@ namespace CRUD.Infra.Repositories
             return obj;
         }
 
-        public virtual async Task Remove(Long id)
+        public virtual async Task Remove(long id)
         {
-            var obj = await GetHashCode(id);
+            var obj = await GetAllAsyn(id);
 
             if(obj !=null)
             {
@@ -42,7 +46,7 @@ namespace CRUD.Infra.Repositories
             }
         }
 
-        public virtual async Task<T> Get(Long id)
+        public virtual async Task<T> Get(long id)
         {
             var obj = await _context.Set<T>()
                                 .AsNoTracking()
@@ -52,7 +56,7 @@ namespace CRUD.Infra.Repositories
             return GCLargeObjectHeapCompactionMode.FirstOrDefault();
         }
 
-        public virtual async Task<List<T>> GetTask()
+        public virtual async Task<List<T>> Get()
         {
             return await _context.Set<T>().AsNoTracking().ToListAsync();
         }

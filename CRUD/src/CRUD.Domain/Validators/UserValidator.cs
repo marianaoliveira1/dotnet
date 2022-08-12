@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using CRUD.Domain.Entities;
 using FluentValidation;
 
 namespace CRUD.Domain.Validators
@@ -11,20 +12,20 @@ namespace CRUD.Domain.Validators
         public UserValidator()
         {
             RuleFor(x => x)
-                .NotEmpet()
+                .NotEmpty()
                 .WithMessage("A entidade nao pode ser vazia")
                 
-                .NotEmpet()
+                .NotNull()
                 .WithMessage("A entidade nao pode ser nula");
 
-            RuleFor(x => x.Nome)
-                .NotEmpet()
+            RuleFor(x => x.Name)
+                .NotEmpty()
                 .WithMessage("A nome nao pode ser vazia")
                 
-                .NotEmpet()
+                .NotNull()
                 .WithMessage("A nome nao pode ser nula")
                 
-                .MininumLenght(3)
+                .MinimumLength(3)
                 .WithMessage("A nome deve ter no minimo 3 caracteres")
 
                 .MaximumLength(80)

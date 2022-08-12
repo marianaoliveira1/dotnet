@@ -2,14 +2,17 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using CRUD.Domain.Entities;
+using CRUD.Infra.Context;
+using CRUD.Infra.Intrfaces;
 
 namespace CRUD.Infra.Repositories
 {
-    public class UserRepository : BaseRepository<User>, UIRepository
+    public class UserRepository : BaseRepository<User>, IUserRepository
     
     {
-        private readonly CrudContext _context;
-        public UserRepository(ManagerContext context) : base(context)
+        private readonly CRUDContext _context;
+        public UserRepository(CRUDContext context) : base(context)
         {
             _context = context;
         } 

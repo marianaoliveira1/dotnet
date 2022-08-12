@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "gLc6FB5Bw8oK4XS+g7lxHW3808YfahKiTB2LMH0x4EJezH+SWTflRcBTXQG9pirWB709+Hb1D7Lxkt9tQjtjNQ==",
+  "dgSpecHash": "L3xlXFiRSRju9196sSaEEU97VYiOtrezD2T2RHe1HjlK3c5OW3BJbWk5ncuag1hcDGpd8EtS3gafKUoRuJoIzA==",
   "success": true,
   "projectFilePath": "C:\\Users\\mariana_oliveira\\Documents\\atlantico\\dotnet\\CRUD\\src\\CRUD.Infra\\CRUD.Infra.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\mariana_oliveira\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512",
+    "C:\\Users\\mariana_oliveira\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\mariana_oliveira\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.8\\microsoft.entityframeworkcore.6.0.8.nupkg.sha512",
     "C:\\Users\\mariana_oliveira\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.8\\microsoft.entityframeworkcore.abstractions.6.0.8.nupkg.sha512",
     "C:\\Users\\mariana_oliveira\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.8\\microsoft.entityframeworkcore.analyzers.6.0.8.nupkg.sha512",
+    "C:\\Users\\mariana_oliveira\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\2.1.2\\microsoft.entityframeworkcore.relational.2.1.2.nupkg.sha512",
     "C:\\Users\\mariana_oliveira\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\mariana_oliveira\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.1\\microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",
     "C:\\Users\\mariana_oliveira\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
@@ -15,6 +18,10 @@
     "C:\\Users\\mariana_oliveira\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\mariana_oliveira\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\mariana_oliveira\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\mariana_oliveira\\.nuget\\packages\\mysqlconnector\\0.44.1\\mysqlconnector.0.44.1.nupkg.sha512",
+    "C:\\Users\\mariana_oliveira\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\mariana_oliveira\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\2.1.2\\pomelo.entityframeworkcore.mysql.2.1.2.nupkg.sha512",
+    "C:\\Users\\mariana_oliveira\\.nuget\\packages\\pomelo.jsonobject\\2.0.0\\pomelo.jsonobject.2.0.0.nupkg.sha512",
     "C:\\Users\\mariana_oliveira\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\mariana_oliveira\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\mariana_oliveira\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"

@@ -12,9 +12,9 @@ namespace CRUD.Infra.Intrfaces
     {
         Task<T> Create(T obj);
         Task<T> Update(T obj);
-        Task Remove(Long id);
-        Task<T> Get(Long id);
-        Task<List<T>> Get(Long id);
+        Task Remove(long id);
+        Task<T>  Get(long id);
+        Task<List<T>> Get();
 
     }
 }

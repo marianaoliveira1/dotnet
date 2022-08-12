@@ -2,6 +2,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using CRUD.Domain.Validators;
+using FluentValidation;
 
 namespace CRUD.Domain.Entities
 {
@@ -49,10 +51,12 @@ namespace CRUD.Domain.Entities
             if(!validation.IsValid) 
             {
                 foreach(var error in validation.Errors)
-                    _erros.Add(error.ErrorMessage);
+                    _errors.Add(error.ErrorMessage);
 
-                throw new Exception("Alguns campos estão invalidos, por favor, corrija-os" +_erros[0]);
+                throw new Exception("Alguns campos estão invalidos, por favor, corrija-os" +_errors[0]);
             }
+
+            return true;
         }
            
 
