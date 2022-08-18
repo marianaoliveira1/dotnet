@@ -1,0 +1,16 @@
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\media\soobasico\bin\Debug\net5.0\soobasico.exe
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\media\soobasico\bin\Debug\net5.0\soobasico.deps.json
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\media\soobasico\bin\Debug\net5.0\soobasico.runtimeconfig.json
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\media\soobasico\bin\Debug\net5.0\soobasico.runtimeconfig.dev.json
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\media\soobasico\bin\Debug\net5.0\soobasico.dll
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\media\soobasico\bin\Debug\net5.0\soobasico.pdb
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\media\soobasico\obj\Debug\net5.0\soobasico.csproj.AssemblyReference.cache
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\media\soobasico\obj\Debug\net5.0\soobasico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\media\soobasico\obj\Debug\net5.0\soobasico.AssemblyInfoInputs.cache
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\media\soobasico\obj\Debug\net5.0\soobasico.AssemblyInfo.cs
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\media\soobasico\obj\Debug\net5.0\soobasico.csproj.CoreCompileInputs.cache
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\media\soobasico\obj\Debug\net5.0\soobasico.dll
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\media\soobasico\obj\Debug\net5.0\refint\soobasico.dll
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\media\soobasico\obj\Debug\net5.0\soobasico.pdb
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\media\soobasico\obj\Debug\net5.0\soobasico.genruntimeconfig.cache
+C:\Users\mariana_oliveira\Documents\atlantico\dotnet\media\soobasico\obj\Debug\net5.0\ref\soobasico.dll
