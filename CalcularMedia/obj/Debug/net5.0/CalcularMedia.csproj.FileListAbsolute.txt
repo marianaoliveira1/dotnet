@@ -1,0 +1,16 @@
+C:\Users\maria\OneDrive\Área de Trabalho\CalcularMedia\CalcularMedia\bin\Debug\net5.0\CalcularMedia.exe
+C:\Users\maria\OneDrive\Área de Trabalho\CalcularMedia\CalcularMedia\bin\Debug\net5.0\CalcularMedia.deps.json
+C:\Users\maria\OneDrive\Área de Trabalho\CalcularMedia\CalcularMedia\bin\Debug\net5.0\CalcularMedia.runtimeconfig.json
+C:\Users\maria\OneDrive\Área de Trabalho\CalcularMedia\CalcularMedia\bin\Debug\net5.0\CalcularMedia.runtimeconfig.dev.json
+C:\Users\maria\OneDrive\Área de Trabalho\CalcularMedia\CalcularMedia\bin\Debug\net5.0\CalcularMedia.dll
+C:\Users\maria\OneDrive\Área de Trabalho\CalcularMedia\CalcularMedia\bin\Debug\net5.0\CalcularMedia.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\CalcularMedia\CalcularMedia\obj\Debug\net5.0\CalcularMedia.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Área de Trabalho\CalcularMedia\CalcularMedia\obj\Debug\net5.0\CalcularMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Área de Trabalho\CalcularMedia\CalcularMedia\obj\Debug\net5.0\CalcularMedia.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\CalcularMedia\CalcularMedia\obj\Debug\net5.0\CalcularMedia.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Área de Trabalho\CalcularMedia\CalcularMedia\obj\Debug\net5.0\CalcularMedia.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\CalcularMedia\CalcularMedia\obj\Debug\net5.0\CalcularMedia.dll
+C:\Users\maria\OneDrive\Área de Trabalho\CalcularMedia\CalcularMedia\obj\Debug\net5.0\refint\CalcularMedia.dll
+C:\Users\maria\OneDrive\Área de Trabalho\CalcularMedia\CalcularMedia\obj\Debug\net5.0\CalcularMedia.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\CalcularMedia\CalcularMedia\obj\Debug\net5.0\CalcularMedia.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Área de Trabalho\CalcularMedia\CalcularMedia\obj\Debug\net5.0\ref\CalcularMedia.dll
